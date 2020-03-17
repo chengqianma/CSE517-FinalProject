@@ -1,0 +1,6 @@
+bert-base-uncased/
+*.pyc
+__pycache__/
+output/
+*.txt
+*.log
